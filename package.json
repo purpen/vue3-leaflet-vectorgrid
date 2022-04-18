@@ -1,0 +1,16 @@
+{
+  "name": "vue3-leaflet-vectorgrid",
+  "version": "1.0.0",
+  "description": "Leaflet vector grid for vue3.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "vue3",
+    "leaflet",
+    "vector-grid"
+  ],
+  "author": "purpen",
+  "license": "MIT"
+}
